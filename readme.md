@@ -1,15 +1,15 @@
 ## Projeto Computação Gráfica Parte 01.
 
-- 1: Criar tela Branca
-- 2: Detectar cliques com o botão esquerdo do mouse e desenhar um ponto preto de tamanho 50 no local que foi clicado na tela.
-- 3: Ao pressionar o botão direito, limpar a tela.
+- 1: Criar tela Branca. ✅
+- 2: Detectar cliques com o botão esquerdo do mouse e desenhar um ponto preto de tamanho 50 no local que foi clicado na tela. ✅
+- 3: Ao pressionar o botão direito, limpar a tela. ✅
 
 ---
 
 ## Novas Funcionalidades adicionadas
 
-- 1: Pontos redondos
-- 2: Alteração na cor dos pontos geradas aleatoriamente.
+- 1: Pontos redondos. ✅
+- 2: Alteração na cor dos pontos geradas aleatoriamente. ✅
 
 ---
 
