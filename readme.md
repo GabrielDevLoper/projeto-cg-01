@@ -30,3 +30,9 @@ python screen-white.py
 #### Não conseguir instalar a biblioteca PyOpenGL_accelerate foi apresentado o seguinte erro: 
 ``Failed to build PyOpenGL_accelerate ERROR: Could not build wheels for PyOpenGL_accelerate, which is required to install pyproject.toml-based projects``
 #### Porém o código executou normalmente sem a lib PyOpenGL_accelerate
+
+---
+
+### Imagem do funcionamento do projeto
+
+![Imagem do funcionando do projeto](/funcionamento.png)
