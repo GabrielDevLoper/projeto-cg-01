@@ -9,7 +9,7 @@
 ## Novas Funcionalidades adicionadas
 
 - 1: Pontos redondos
-- 2: Alteração nas cores dos pontos geradas aleatoriamente.
+- 2: Alteração na cor dos pontos geradas aleatoriamente.
 
 ---
 
